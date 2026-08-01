@@ -87,17 +87,17 @@ module fields. ~100 modules across combat, movement, render, player and HUD.
 ## `~/ stats`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="profile">
+  <img src="https://raw.githubusercontent.com/barbykew/barbykew/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" alt="profile">
 </p>
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="repos per language">
-  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="most committed language">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" alt="repos per language">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" alt="most committed language">
 </p>
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/3-stats.svg" alt="stats">
-  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="productive time">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/main/profile-summary-card-output/midnight_purple/3-stats.svg" alt="stats">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" alt="productive time">
 </p>
 
 <br>
