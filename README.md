@@ -87,16 +87,17 @@ module fields. ~100 modules across combat, movement, render, player and HUD.
 ## `~/ stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=barbykew&show_icons=true&hide_border=true&bg_color=0F0E14&title_color=A36CD8&icon_color=A36CD8&text_color=C5C9D8&hide_title=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbykew&layout=compact&hide_border=true&bg_color=0F0E14&title_color=A36CD8&text_color=C5C9D8&langs_count=8" alt="languages">
+  <img src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="profile">
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=barbykew&hide_border=true&background=0F0E14&stroke=2A1E3D&ring=A36CD8&fire=A36CD8&currStreakLabel=A36CD8&sideLabels=C5C9D8&dates=6E6E7A&sideNums=C5C9D8&currStreakNum=EDE6F7" alt="streak">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="repos per language">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="most committed language">
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=barbykew&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/3-stats.svg" alt="stats">
+  <img height="180" src="https://raw.githubusercontent.com/barbykew/barbykew/profile-summary-cards-output/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="productive time">
 </p>
 
 <br>
